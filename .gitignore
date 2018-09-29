@@ -1,0 +1,7 @@
+archetypes/
+data/
+layouts/
+static/
+themes/
+config.toml
+public
